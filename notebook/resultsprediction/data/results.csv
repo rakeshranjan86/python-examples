@@ -1,0 +1,105 @@
+ID,EDUCATION,NAME,GENDER,AGE,SSC,HSC,MCA%,MCA%R,ACADEMICGAP,LAB_WORK,SEMINAR,COMMUNICATIONSKILL,GRADBACKGROUND,PLACEMENT
+1,Graduate,Peters Brandon,male,23,73.6,65.33,67.43,4,Yes,Yes,Average,Average,CS,1
+2,Graduate,Daniel Marie,female,22,86.5,67.83,76.17,6,Yes,Yes,Poor,Good,CS,1
+3,Graduate,Dawson Stella,female,21,70.26,64.17,67.8,4,No,Yes,Average,Average,CS,1
+4,Graduate,Hamric Alister,female,22,69.89,65.67,76.45,6,No,Yes,Average,Average,CS,1
+5,Graduate,Allen William,male,27,61.6,63.17,60.57,3,No,Yes,Poor,Poor,CS,0
+6,Graduate,Moran James,male,27,69.73,61.83,63.43,3,Yes,Yes,Poor,Poor,CS,0
+7,Graduate,McCarthyTimothy,male,22,84.26,80.67,77.11,6,Yes,Yes,Good,Good,CS,1
+8,Graduate,Palsson Gosta,male,21,72.2,66.8,67.46,4,No,Yes,Average,Average,CS,1
+9,Graduate,Elisabeth Vilhelmina,female,23,72.4,62.67,68.89,4,Yes,Yes,Average,Average,CS,1
+10,Graduate,Nasser Achem,female,21,61.86,56.33,63.46,3,Yes,No,Poor,Poor,Art,0
+11,Graduate,Sands Marguerite Rut,female,22,73.6,56.33,63.83,3,Yes,No,Poor,Average,Art,1
+12,Graduate,Bonnell Elizabeth,female,21,65.06,49.89,68.54,3,Yes,No,Poor,Poor,Art,0
+13,Graduate,Saundercock William,male,23,52.66,69.17,60.29,3,Yes,No,Poor,Poor,Art,0
+14,Graduate,Harden George Wesley,male,22,52.86,56.83,74.77,5,No,Yes,Average,Average,CS,0
+15,Graduate,Dhoni Mahendra Singh,female,22,73.33,53.67,61.97,3,No,No,Poor,Average,CS,1
+16,Graduate,Hewlett D Kingcome) ,female,23,72.97,67.89,74.77,5,No,Yes,Average,Poor,CS,1
+17,Graduate,Deventer Paul Van,male,26,68.73,67.83,73.43,5,Yes,Yes,Average,Poor,CS,0
+18,Graduate,Williams Charles Eugene,male,26,62.97,54.89,64.77,3,Yes,Yes,Poor,Average,CS,0
+19,Graduate,Vander Planke Julius,female,22,82.97,77.89,76.77,5,Yes,Yes,Good,Poor,CS,1
+20,Graduate,Masselmani Fatima,female,25,66.86,75.33,43.46,1,Yes,No,Poor,Poor,Art,0
+21,Graduate,Fynney Joseph,male,22,62.6,56.33,63.83,3,Yes,No,Poor,Average,Art,0
+22,Graduate,Beesley Lawrence,male,23,65.06,47,58.54,2,Yes,No,Poor,Poor,Art,0
+23,Graduate,McGowan Anna,female,24,82.66,69.17,60.29,3,Yes,No,Poor,Poor,Art,0
+24,Graduate,Sloper William Thompson,male,25,51.86,56.83,74.77,5,Yes,Yes,Average,Average,CS,0
+25,Graduate,Haraway Marta Morgan,female,23,73.33,53.67,61.97,3,Yes,No,Poor,Average,CS,1
+26,Graduate,Asplund Carl Oscar,female,25,71.97,67.89,74.77,5,Yes,Yes,Average,Poor,CS,0
+27,Graduate,Emir Farred Chehab,male,22,68.73,68.83,73.43,5,Yes,Yes,Average,Poor,CS,1
+28,Graduate,Fortune Charles Alexander,male,22,68.97,60.89,61.77,3,Yes,Yes,Poor,Average,CS,1
+29,Graduate,Dwyer Ellen,female,23,62.97,67.89,76.77,5,Yes,Yes,Good,Poor,CS,0
+30,Graduate,Todoroff Lalio,male,23,66.86,76.33,43.46,1,Yes,No,Poor,Poor,Art,0
+31,Graduate,Uruchurtu Manue,male,24,73.6,56.33,63.83,3,Yes,No,Poor,Average,Art,0
+32,Graduate,Gonzales Lydia,female,25,65.06,45.6,58.54,2,Yes,No,Poor,Poor,Art,0
+33,Graduate,Glynn Mary Agatha,female,25,82.66,69.17,60.29,3,No,No,Poor,Poor,Art,0
+34,Graduate,Wheadon Edward H,male,25,51.86,56.83,74.77,5,Yes,Yes,Average,Average,CS,0
+35,Graduate,Meyer Edgar Joseph,male,23,73.33,53.67,61.97,3,Yes,No,Poor,Average,CS,0
+36,Graduate,Holverson Alexander Oskar,male,24,72.97,67.89,74.77,5,No,Yes,Average,Poor,CS,0
+37,Graduate,Hook Thomas,male,25,68.73,67.83,73.43,5,No,Yes,Average,Poor,CS,0
+38,Graduate,Cann Ernest Charles,male,25,67.97,59.89,60.34,3,Yes,Yes,Poor,Average,CS,0
+39,Graduate,Robertson Amali,female,25,62.97,67.89,58.54,2,No,Yes,Good,Poor,CS,0
+40,Graduate,Johnson Adelyn Elise,female,25,73.6,65.33,67.43,4,No,Yes,Average,Average,CS,0
+41,Graduate,Waters Justin,female,24,72.39,67.83,76.17,6,No,Yes,Good,Average,CS,1
+42,Graduate,Dean Dedious,female,24,70.26,64.17,67.8,4,No,Yes,Average,Average,CS,1
+43,Graduate,Peterson Kevin,male,23,67.79,54.5,68.4,4,No,Yes,Average,Average,CS,0
+44,Graduate,Stringer Eva Marie,female,25,61.6,63.17,60.57,3,Yes,Yes,Poor,Poor,CS,0
+45,Graduate,Waddell Emily Madison,female,24,69.73,61.83,63.43,3,Yes,Yes,Poor,Poor,CS,0
+46,Graduate,Lauth Karlie,male,25,84.26,80.67,77.11,6,Yes,Yes,Good,Good,CS,1
+47,Graduate,Hodge Brad,male,24,72.2,66.8,67.46,4,Yes,Yes,Average,Good,CS,1
+48,Graduate,Driscoll Bridget,female,23,72.4,62.67,68.89,4,Yes,Yes,Average,Average,CS,1
+49,Graduate,Daniel Elena,male,26,73.33,53.67,61.97,3,Yes,No,Poor,Average,CS,0
+50,Graduate,Arnold Franchi Josef,female,25,72.97,67.89,74.77,5,Yes,Yes,Average,Poor,CS,0
+51,Graduate,Panula Juha Niilo,male,22,68.73,67.83,73.43,5,Yes,Yes,Average,Poor,CS,0
+52,Graduate,Lavely Louis,male,24,67.97,59.89,61.77,3,Yes,Yes,Poor,Good,CS,0
+53,Graduate,Sarratt Zechariah Samuel,female,23,62.97,67.89,76.77,5,Yes,Yes,Good,Poor,CS,0
+54,Graduate,Deventer Paul,female,23,73.6,65.33,67.43,4,Yes,Yes,Average,Average,CS,0
+55,Graduate,Lauth Dalton Ryan,male,23,71.89,67.83,76.17,6,Yes,Yes,Good,Good,CS,0
+56,Graduate,Kim Joyce,male,23,70.26,64.17,57.54,2,Yes,Yes,Average,Average,CS,0
+57,Graduate,Pt Brad,female,23,64.67,60.67,68.4,4,No,Yes,Average,Good,CS,0
+58,Graduate,Danielle Marie Elizabeth,male,23,61.6,63.17,60.57,3,No,Yes,Poor,Poor,CS,0
+59,Graduate,Dawson ella Michelle,female,26,69.73,61.83,63.43,3,No,Yes,Poor,Poor,CS,0
+60,Graduate,john Alister Michael,male,27,73.33,53.67,61.97,3,No,No,Poor,Average,CS,1
+61,Graduate,Deventer Paul,male,24,72.97,67.89,74.77,5,No,Yes,Average,Poor,CS,0
+62,Graduate,Cook Thomas,female,23,68.73,67.83,73.43,5,No,Yes,Average,Poor,CS,0
+63,Graduate,Waterson Justine,male,26,67.97,59.89,61.77,3,No,Yes,Poor,Average,CS,0
+64,Graduate,Dhoni Sachin R,male,23,62.97,67.89,76.77,5,No,Yes,Good,Poor,CS,1
+65,Graduate,Peterson andrew,male,23,73.6,65.33,67.43,4,No,Yes,Average,Average,CS,0
+66,Graduate,Moubarek Gerios,male,23,87.9,67.83,76.17,6,No,Yes,Good,Good,CS,1
+67,Graduate,Haraway Marta john,female,23,70.26,64.17,67.8,4,No,Yes,Average,Average,CS,1
+68,Graduate,Waterson Justine,male,23,67.8,78.9,68.4,4,No,Yes,Average,Average,CS,1
+69,Graduate,Haraway Marta john,female,25,61.6,63.17,60.57,3,No,Yes,Poor,Poor,CS,0
+70,Graduate,Danielle Elena,male,25,69.73,61.83,63.43,3,No,Yes,Poor,Poor,CS,0
+71,Graduate,Hode Brad,male,26,62.97,67.89,76.77,5,No,Yes,Good,Poor,CS,0
+72,Graduate,Haraway Marta john,female,26,73.6,65.33,67.43,4,Yes,No,Average,Average,CS,0
+73,Graduate,Hode Brad,male,22,76.1,67.83,76.17,6,No,No,Good,Good,CS,0
+74,Graduate,Harden George casper,male,22,70.26,64.17,67.8,4,Yes,Yes,Average,Good,CS,1
+75,Graduate,Harden George casper,male,22,65.89,79.9,68.4,4,Yes,Yes,Average,Average,CS,1
+76,Graduate,Dhoni Sachin R,male,26,61.6,63.17,60.57,3,Yes,No,Poor,Poor,CS,0
+77,Graduate,Danielle Elena,male,26,69.73,61.83,63.43,3,Yes,Yes,Poor,Poor,CS,0
+78,Graduate,Cook Thomas,male,21,73.33,53.67,61.97,3,Yes,No,Poor,Average,CS,0
+79,Graduate,Harden George casper,male,21,72.97,67.89,74.77,5,Yes,Yes,Average,Poor,CS,1
+80,Graduate,Dhoni Sachin R,female,21,68.73,67.83,73.43,5,Yes,Yes,Average,Poor,CS,1
+81,Graduate,Hode Brad,male,22,67.97,59.89,61.77,3,Yes,Yes,Poor,Average,CS,0
+82,Graduate,Sheerlinck Jan Baptist,male,22,62.97,67.89,76.77,5,Yes,Yes,Good,Poor,Art,1
+83,Graduate,McDermott Brigdet Delia,female,21,66.86,76.33,43.46,1,Yes,No,Poor,Poor,Art,0
+84,Graduate,Peterson andrew,male,21,73.6,56.33,63.83,3,Yes,No,Poor,Average,Art,0
+85,Graduate,Ilett  Bertha,female,21,75.89,67.83,76.17,6,Yes,Yes,Good,Good,Art,1
+86,Graduate,Cook Thomas,female,24,70.26,64.17,67.8,4,Yes,No,Average,Good,Art,0
+87,Graduate,Ford William Neal,male,21,68.9,64.53,68.4,4,Yes,Yes,Average,Average,CS,1
+88,Graduate,Slocovski Selman Francis,male,21,61.6,63.17,60.57,3,Yes,Yes,Poor,Poor,CS,0
+89,Graduate,sean Dedious,female,26,69.73,61.83,63.43,3,Yes,No,Poor,Poor,CS,0
+90,Graduate,Danielle Elena,male,24,62.97,67.89,61.23,3,Yes,No,Good,Poor,CS,0
+91,Graduate,Peterson andrew,male,21,73.6,65.33,67.43,4,No,No,Average,Average,CS,1
+92,Graduate,sean Dedious,male,24,84.5,67.83,76.17,6,No,Yes,Good,Good,Art,1
+93,Graduate,sean Dedious,male,21,70.26,64.17,67.8,4,No,Yes,Average,Average,Art,1
+94,Graduate,Dean Bertram Frank,male,25,69.9,76.87,68.4,4,No,Yes,Average,Average,Art,1
+95,Graduate,Coxon Daniel,male,21,67.97,59.89,61.77,3,No,Yes,Poor,Average,CS,0
+96,Graduate,Shorney Charles Joseph,male,21,62.97,67.89,76.77,5,Yes,No,Good,Poor,CS,0
+97,Graduate,Goldschmidt George B,male,21,73.6,65.33,61.23,3,No,Yes,Average,Average,CS,1
+98,Graduate,Greenfield William Bertram,male,23,78.91,67.83,76.17,6,No,Yes,Good,Good,CS,1
+99,Graduate,Doling John T,female,22,70.26,64.17,67.8,4,Yes,No,Average,Average,CS,1
+100,Graduate,Kantor Sinai,male,25,62.45,62.78,68.4,4,Yes,No,Average,Average,CS,1
+101,Graduate,Petranec Matilda,female,25,61.6,63.17,56.54,2,No,Yes,Poor,Poor,CS,0
+102,Graduate,Petroff Pastcho,male,24,69.73,61.83,54.55,2,No,Yes,Poor,Poor,CS,0
+103,Graduate,White Richard Frasar,male,22,62.97,67.89,76.77,5,No,No,Good,Poor,CS,1
+104,Graduate,sean Dedious,male,23,73.6,65.33,67.43,4,No,No,Average,Good,CS,1
